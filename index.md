@@ -1,2 +1,2 @@
 javascript高级程序设计
-你不知道的
+你不知道的javascript
