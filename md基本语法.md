@@ -40,6 +40,10 @@ var demo=function(){
 
 > [超强大的云开发平台Coding](http://www.jiufenku.com)
 
+### 引用图片语法
+ ![Alt text](/path/to/img.jpg)
+
+
 ### 分割线： **_在 Markdown 中，可以使用 3 个以上『-』符号制作分割线_**
 
 >  分割线上内容
