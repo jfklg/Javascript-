@@ -1,4 +1,4 @@
-#arguments 详解
+# arguments 详解
 
 arguments对象是所有（非箭头）函数中都可用的局部变量。  
 
