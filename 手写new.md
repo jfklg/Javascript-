@@ -61,7 +61,7 @@ function _new(){
   Constructor=[].shift.call(arguments);
   obj._proto_=Constructor.prototype;
   var ret=Constructor.apply(obj,arguments);
-  return instance of ret=='object'?ret:obj
+  return ret instanceof Object ? ret : obj;
 }
 ```
 
