@@ -55,7 +55,7 @@ var demo=function(){
 
 ### 测试段落：
     Markdown 使用 email 样式的 > 字符作为块引用. 如果你熟悉 email 消息中的引用段落,
-    那么你同样可以在 Markdown 中创建块引用. 最好对引用文本采取强
+    那么你同样可以在 Markdown 中创建块引用. 最好对引用文本采取强t
     制换行并在每一行行首放一个 > 
        
    > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
